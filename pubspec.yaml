@@ -6,6 +6,7 @@ homepage: https://github.com/Bernardi23/search_map_place
 
 environment:
   sdk: ">=2.12.2 <3.0.0"
+  flutter: ">=2.0.0 <3.0.0"
 
 dependencies:
   flutter:
